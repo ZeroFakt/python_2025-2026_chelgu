@@ -3,3 +3,6 @@
 
 #pdf
 ICD-10.pdf
+
+#cache
+src/__pycache__
