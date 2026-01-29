@@ -1,0 +1,5 @@
+#venv
+.venv/
+
+#pdf
+ICD-10.pdf
